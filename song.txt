@@ -1,7 +1,2 @@
 sword and spear
-wall of shields.
-
-ABC
-ABC2
-ABC3
-===================================
+wall of shields .
